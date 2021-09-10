@@ -197,7 +197,7 @@
                                     <li><a href="/product/Electronics">Electronics</a></li>
                                     <li><a href="/product/Dress">Dress</a></li>
                                     <li><a href="/product/Cover">Cover</a></li>
-                                    <li><a href="/product">General</a></li>
+                                    <li><a href="/product/General">General</a></li>
                                 </ul>
                             </li>
                             <li><a href="blog-archive.html">Blog <span class="caret"></span></a>

@@ -503,7 +503,7 @@ class admindetails extends Controller
                 {
                     $name=$file->getClientOriginalName();
                     $file->move(public_path('image'),$name);
-                    error_log($name);
+                    // error_log($name);
                     $files[]=$name;
                 } 
                   
