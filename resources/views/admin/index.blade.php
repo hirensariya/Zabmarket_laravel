@@ -3,17 +3,11 @@
         alert('{{ Session::get('adminFailLogin') }}');
     </script>
 @endif
-@if (Session::has('adminFailLogin'))
-    <script>
-        alert('{{ Session::get('adminFailLogin') }}');
-    </script>
-@endif
 @if (Session::has('status'))
     <script>
         alert('{{ Session::get('status') }}');
     </script>
 @endif
-
 <!doctype html>
 <html lang="en">
 
